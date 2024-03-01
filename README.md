@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VenkataSatyaSrikarParvatha
 - 👀 I’m interested in exploring new technologies, especially at the confluence of technology and management.
 - 🌱 I’m currently learning machine learning and deep learning.
-- 💞️ I’m looking to collaborate on open-source projects related to artificial intelligence and data science.
+- 💞️ I’m looking to collaborate on projects related to artificial intelligence and data science.
 - 📫 How to reach me: You can connect with me on [LinkedIn](www.linkedin.com/in/venkata-satya-srikar-parvatha-b4688628a).
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I don't love coding!
